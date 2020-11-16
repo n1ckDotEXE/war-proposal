@@ -9,3 +9,6 @@ The code will have 2 variables where the player chooses the range between the nu
 
 ## Stretch Goals
 The goal of this game is to be fully playable with a dealer where the user can have multiple inputs without having to enter inputs all at once.
+
+More information about readline can be found at: 
+https://nodejs.org/api/readline.html
