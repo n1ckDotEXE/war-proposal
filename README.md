@@ -1,6 +1,5 @@
 <p align=center>War Proposal</p>
 <a href="https://github.com/n1ckDotEXE/blackjack-proposal/blob/main/blackjack.jpg?raw=true"></a>
----
 
 ## Application Summary
 War is a simple game where you try to beat the dealer by drawing a higher number. In this game, you will be able to play a console based version of the game War and select a range of numbers and play within them against the dealer.
