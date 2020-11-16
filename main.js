@@ -3,8 +3,7 @@ const readline = require('readline').createInterface({
     output: process.stdout
 });
 console.clear();
-console.log(`
-================================
+console.log(`================================
 ======== Welcome to WAR ========
 ================================
 `);
@@ -18,11 +17,10 @@ readline.question('What is the LOWEST possible number? ', lowNumInput => {
             console.log(`Dealer had ${dealerNum}`);
             if (playNumInput > dealerNum) {
                 console.log('Yay, you WON!');
-                readline.close();
             } else {
                 console.log('Sorry, you LOST...');
-                readline.close();
             }
+            readline.close();
         });
     });
 });
